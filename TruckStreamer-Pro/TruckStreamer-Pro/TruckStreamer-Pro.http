@@ -1,0 +1,6 @@
+@TruckStreamer_Pro_HostAddress = http://localhost:5215
+
+GET {{TruckStreamer_Pro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

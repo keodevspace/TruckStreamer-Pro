@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\analyticsprocessor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\analyticsprocessor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\analyticsprocessor\\main.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\analyticsprocessor\\main.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\analyticsprocessor\\processor\\calculator.go||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\analyticsprocessor\\processor\\calculator.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\ingestionapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\ingestionapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\ingestionapi\\controllers\\telemetrycontroller..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\ingestionapi\\controllers\\telemetrycontroller..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\ingestionapi\\models\\truckmetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\ingestionapi\\models\\truckmetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|c:\\users\\keoxc\\source\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro\\truckstreamer-pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F24CFED-90B0-4E55-A8C2-35C2A3BA2455}|TruckStreamer-Pro\\TruckStreamer-Pro.csproj|solutionrelative:truckstreamer-pro\\truckstreamer-pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\AnalyticsProcessor\\Dockerfile",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\AnalyticsProcessor\\Dockerfile",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\AnalyticsProcessor\\Dockerfile",
+              "RelativeToolTip": "TruckStreamer-Pro\\AnalyticsProcessor\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T08:18:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelemetryController..cs",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\IngestionAPI\\Controllers\\TelemetryController..cs",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\IngestionAPI\\Controllers\\TelemetryController..cs",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\IngestionAPI\\Controllers\\TelemetryController..cs",
+              "RelativeToolTip": "TruckStreamer-Pro\\IngestionAPI\\Controllers\\TelemetryController..cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:04:54.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\Program.cs",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\Program.cs",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\Program.cs",
+              "RelativeToolTip": "TruckStreamer-Pro\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:06:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\IngestionAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\IngestionAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\IngestionAPI\\Dockerfile",
+              "RelativeToolTip": "TruckStreamer-Pro\\IngestionAPI\\Dockerfile",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T08:07:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculator.go",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\AnalyticsProcessor\\processor\\calculator.go",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\AnalyticsProcessor\\processor\\calculator.go",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\AnalyticsProcessor\\processor\\calculator.go",
+              "RelativeToolTip": "TruckStreamer-Pro\\AnalyticsProcessor\\processor\\calculator.go",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T08:09:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\docker-compose.yml",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\docker-compose.yml",
+              "RelativeToolTip": "TruckStreamer-Pro\\docker-compose.yml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-12T08:11:30.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TruckMetric.cs",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\IngestionAPI\\Models\\TruckMetric.cs",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\IngestionAPI\\Models\\TruckMetric.cs",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\IngestionAPI\\Models\\TruckMetric.cs",
+              "RelativeToolTip": "TruckStreamer-Pro\\IngestionAPI\\Models\\TruckMetric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:05:46.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.go",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\AnalyticsProcessor\\main.go",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\AnalyticsProcessor\\main.go",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\AnalyticsProcessor\\main.go",
+              "RelativeToolTip": "TruckStreamer-Pro\\AnalyticsProcessor\\main.go",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T08:08:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TruckStreamer-Pro",
+              "DocumentMoniker": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro.csproj",
+              "RelativeDocumentMoniker": "TruckStreamer-Pro\\TruckStreamer-Pro.csproj",
+              "ToolTip": "C:\\Users\\keoxc\\Source\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro\\TruckStreamer-Pro.csproj",
+              "RelativeToolTip": "TruckStreamer-Pro\\TruckStreamer-Pro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T08:10:40.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

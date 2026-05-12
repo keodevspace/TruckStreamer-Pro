@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  ingestion-api:
+    build:
+      context: .
+      dockerfile: IngestionAPI/Dockerfile
+    ports:
+      - "5000:80"
+    volumes:
+      - ./Data:/app/Data
+
+  analytics-processor:
+    build:
+      context: .
+      dockerfile: AnalyticsProcessor/Dockerfile
+    depends_on:
+      - ingestion-api
+    volumes:
+      - ./Data:/app/Data
